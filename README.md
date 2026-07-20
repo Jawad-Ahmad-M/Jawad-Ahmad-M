@@ -105,10 +105,6 @@ BS Data Science at UET Lahore (2024–2028), GPA 3.70/4.0 · Open to internships
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawad-Ahmad-M&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Ahmad-M&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
-  <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jawad-Ahmad-M/Jawad-Ahmad-M/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Jawad-Ahmad-M/Jawad-Ahmad-M/output/github-snake.svg" width="96%" alt="Contribution snake animation" />
