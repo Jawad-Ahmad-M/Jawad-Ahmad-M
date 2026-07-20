@@ -9,8 +9,7 @@
 <p>
   <a href="https://jawad-ahmad-mgl.vercel.app/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://linkedin.com/in/jd2024"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:jdmgl2238@gmail.com"><b>Email</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Jawad-Ahmad-M"><b>GitHub</b></a>
+  <a href="mailto:jdmgl2238@gmail.com"><b>Email</b></a>
 </p>
 
 </div>
@@ -19,33 +18,75 @@
 
 ## About
 
-I build products end to end — not just prototypes. At SEIA Solutions I own the full stack of a smart irrigation system: ESP32 firmware in C++, BLE/Wi-Fi provisioning, and a cross-platform Flutter app with native Kotlin and Swift integration layers. On the ML side, I've shipped a fraud-detection ensemble reaching 92% accuracy and a 297KB quantized CNN running on an ESP32-cam.
+I build products end to end — not just prototypes. At **SEIA Solutions** I own the full stack of a smart irrigation system: ESP32 firmware in C++, BLE/Wi-Fi provisioning, and a cross-platform Flutter app with native Kotlin and Swift integration layers. Currently going deep on computer vision and edge-model quantization, while building **Sentinel-Graph LLM**, a local-only codebase security engine.
 
-- Ship full systems: firmware → mobile app → backend → ML pipeline
-- Local-first by default — real-time control with no cloud dependency
-- BS Data Science, University of Engineering and Technology, Lahore (2024–2028) · GPA 3.70/4.0
-
-<br />
-
-## Current Focus
-
-| Area | Details |
-| :--- | :--- |
-| 🔭 Building | Smart irrigation IoT stack at SEIA Solutions (Flutter + ESP32, local-first) · Sentinel-Graph LLM, a local-only codebase security engine using hybrid SCA + Graph-RAG |
-| 🌱 Learning | Computer vision, statistical inference, and edge-model quantization |
-| 🤝 Open to | Internships, freelance work, and collaboration |
+BS Data Science at UET Lahore (2024–2028), GPA 3.70/4.0 · Open to internships, freelance, and collaboration.
 
 <br />
 
 ## Featured Projects
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Tejas** | Secure e-procurement platform with biometrics, immutable audit logs, and an ML fraud-detection ensemble at 92% accuracy | `Python` `Django` `PostgreSQL` `Scikit-learn` `DeepFace` | [Repo](https://github.com/Jawad-Ahmad-M/TEJAS) · [Case study](https://jawad-ahmad-mgl.vercel.app/portfolio-details-tejas.html) |
-| **AutoTap** | Flutter app + ESP32 controller for 6-zone irrigation — fully local over Wi-Fi/BLE, autonomous on-device scheduler, no cloud backend | `Flutter` `C++` `ESP32` `Riverpod` `Drift` | [Case study](https://jawad-ahmad-mgl.vercel.app/portfolio-details-autotap.html) |
-| **Sentinel-Graph LLM** | Local-only AI engine that secures and audits codebases via hybrid SCA + Graph-RAG (in progress) | `Python` `LangChain` `Neo4j` `FAISS` | [Case study](https://jawad-ahmad-mgl.vercel.app/portfolio-details-sentinel-graph.html) |
-| **Solar Dust Detection** | Custom CNN on a YOLO backbone, quantized to a 297KB TFLite model deployed on ESP32-cam | `PyTorch` `TensorFlow Lite` `OpenCV` | [Case study](https://jawad-ahmad-mgl.vercel.app/portfolio-details-solar-dust.html) |
-| **NeuroSQL** | Natural-language-to-SQL healthcare assistant built on Google Gemini | `Python` `Gemini API` `PyQt5` `pandas` | [Repo](https://github.com/Jawad-Ahmad-M/NeuroSQL-Healthcare-Assistant) |
+<sub>Click a project to expand.</sub>
+
+<details>
+<summary>&nbsp;<b>Tejas</b> — secure e-procurement platform with an ML fraud-detection ensemble at 92% accuracy</summary>
+<br />
+
+> Full-stack e-procurement system hardened for real-world abuse: biometric authentication via DeepFace, immutable audit logs, and an ensemble fraud-detection model scoring **92% accuracy** on procurement transactions.
+>
+> `Python` `Django` `PostgreSQL` `Scikit-learn` `DeepFace`
+>
+> **[View repo →](https://github.com/Jawad-Ahmad-M/TEJAS)** &nbsp;·&nbsp; **[Case study →](https://jawad-ahmad-mgl.vercel.app/portfolio-details-tejas.html)**
+
+</details>
+
+<details>
+<summary>&nbsp;<b>AutoTap</b> — Flutter + ESP32 smart irrigation, fully local, no cloud backend</summary>
+<br />
+
+> Commercial 6-zone irrigation controller built at SEIA Solutions. Dual-protocol provisioning (BLE + HTTP/WebSocket over local Wi-Fi), autonomous on-device scheduler that keeps watering with the app offline, **30 concurrent schedules per device**, native Kotlin/Swift networking layers, and fault tolerance down to RTC health and backup-cell voltage monitoring.
+>
+> `Flutter` `C++` `ESP32` `Riverpod` `Drift` `BLE`
+>
+> **[Case study →](https://jawad-ahmad-mgl.vercel.app/portfolio-details-autotap.html)**
+
+</details>
+
+<details>
+<summary>&nbsp;<b>Sentinel-Graph LLM</b> — local-only AI engine that audits codebases via hybrid SCA + Graph-RAG</summary>
+<br />
+
+> Security analysis engine that never sends code off-machine: static composition analysis fused with a graph-based RAG over the codebase's dependency and call structure. In active development.
+>
+> `Python` `LangChain` `Neo4j` `FAISS`
+>
+> **[Case study →](https://jawad-ahmad-mgl.vercel.app/portfolio-details-sentinel-graph.html)**
+
+</details>
+
+<details>
+<summary>&nbsp;<b>Solar Dust Detection</b> — 297KB CNN running on an ESP32-cam</summary>
+<br />
+
+> Custom CNN on a YOLO backbone detecting dust accumulation on solar panels, quantized with TensorFlow Lite down to a **297KB** model — small enough for on-device inference on an ESP32-cam at the panel itself.
+>
+> `PyTorch` `TensorFlow Lite` `OpenCV`
+>
+> **[Case study →](https://jawad-ahmad-mgl.vercel.app/portfolio-details-solar-dust.html)**
+
+</details>
+
+<details>
+<summary>&nbsp;<b>NeuroSQL</b> — natural-language-to-SQL healthcare assistant on Google Gemini</summary>
+<br />
+
+> Desktop assistant that turns plain-English questions into SQL over healthcare datasets, with Gemini handling query generation and pandas the result shaping.
+>
+> `Python` `Gemini API` `PyQt5` `pandas`
+>
+> **[View repo →](https://github.com/Jawad-Ahmad-M/NeuroSQL-Healthcare-Assistant)**
+
+</details>
 
 <br />
 
@@ -61,57 +102,17 @@ I build products end to end — not just prototypes. At SEIA Solutions I own the
 
 <br />
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jawad-Ahmad-M&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Ahmad-M&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
-</div>
-
-<br />
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jawad-Ahmad-M&theme=github-compact&hide_border=true&area=true&radius=8" width="96%" alt="Contribution graph" />
-</div>
-
-<br />
-
-## Achievements
-
-- Architected and shipped the full stack of a commercial smart irrigation product at SEIA Solutions — firmware, provisioning, and cross-platform app — supporting 30 concurrent schedules per device with autonomous offline operation
-- Built a fraud-detection ML ensemble reaching 92% accuracy inside a secure e-procurement platform
-- Quantized a custom CNN to 297KB with TensorFlow Lite for on-device inference on ESP32-cam
-- BS Data Science at UET Lahore, GPA 3.70/4.0
-
-<br />
-
-## Connect
-
-<div align="center">
-
-<a href="https://jawad-ahmad-mgl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/jd2024"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:jdmgl2238@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-&nbsp;
-<a href="https://github.com/Jawad-Ahmad-M"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
-<br />
-
-## Portfolio
-
-<div align="center">
-
-**Full case studies, CV, and contact at**
-
-### [jawad-ahmad-mgl.vercel.app](https://jawad-ahmad-mgl.vercel.app/)
-
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jawad-Ahmad-M/Jawad-Ahmad-M/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Jawad-Ahmad-M/Jawad-Ahmad-M/output/github-snake.svg" width="96%" alt="Contribution snake animation" />
+  </picture>
 </div>
 
 <br />
@@ -119,5 +120,5 @@ I build products end to end — not just prototypes. At SEIA Solutions I own the
 ---
 
 <div align="center">
-  <sub>Lahore, Pakistan · Open to internships & freelance · © 2026 Jawad Ahmad</sub>
+  <sub>Lahore, Pakistan · Full case studies and CV at <a href="https://jawad-ahmad-mgl.vercel.app/">jawad-ahmad-mgl.vercel.app</a> · © 2026 Jawad Ahmad</sub>
 </div>
