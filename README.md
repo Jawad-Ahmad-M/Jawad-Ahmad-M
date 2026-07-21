@@ -101,20 +101,3 @@ BS Data Science at UET Lahore (2024–2028), GPA 3.70/4.0 · Open to internships
 | **Tools** | ![](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=white) ![](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=vsc&logoColor=white) ![](https://img.shields.io/badge/TensorFlow_Lite-0D1117?style=flat-square&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=white) |
 
 <br />
-
-## GitHub Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jawad-Ahmad-M/Jawad-Ahmad-M/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Jawad-Ahmad-M/Jawad-Ahmad-M/output/github-snake.svg" width="96%" alt="Contribution snake animation" />
-  </picture>
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <sub>Lahore, Pakistan · Full case studies and CV at <a href="https://jawad-ahmad-mgl.vercel.app/">jawad-ahmad-mgl.vercel.app</a> · © 2026 Jawad Ahmad</sub>
-</div>
