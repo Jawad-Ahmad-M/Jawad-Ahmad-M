@@ -17,11 +17,13 @@
 <br />
 
 ## About
-
-I build products end to end — not just prototypes. At **SEIA Solutions** I own the full stack of a smart irrigation system: ESP32 firmware in C++, BLE/Wi-Fi provisioning, and a cross-platform Flutter app with native Kotlin and Swift integration layers. Currently going deep on computer vision and edge-model quantization, while building **Sentinel-Graph LLM**, a local-only codebase security engine.
-
-BS Data Science at UET Lahore (2024–2028), GPA 3.70/4.0 · Open to internships, freelance, and collaboration.
-
+A software engineer with a background across backend systems, mobile development, embedded systems, and machine learning.
+ 
+I work comfortably in Python, Java, and C++, and across the stack: Django and PostgreSQL on the backend, Flutter and native Kotlin/Swift on mobile, and PyTorch, TensorFlow, and Scikit-learn for ML work. I care less about just writing code and more about understanding the reasoning behind it: the tradeoffs, the failure modes, the decisions that make a system actually hold up under real conditions.
+ 
+I'm a BS Data Science student at UET Lahore, currently working full-time as a software engineer alongside my studies.
+ 
+Open to full-time roles, freelance work, and collaboration. Feel free to reach out.
 <br />
 
 ## Featured Projects
