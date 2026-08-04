@@ -31,7 +31,7 @@ Open to full-time roles, freelance work, and collaboration. Feel free to reach o
 <sub>Click a project to expand.</sub>
 
 <details>
-<summary>&nbsp;<b>Tejas</b> — secure e-procurement platform with an ML fraud-detection ensemble at 92% accuracy</summary>
+<summary>&nbsp;<b>Tejas</b> — secure e-procurement platform with an ML fraud-detection ensemble at 87% accuracy</summary>
 <br />
 
 > Full-stack e-procurement system hardened for real-world abuse: biometric authentication via DeepFace, immutable audit logs, and an ensemble fraud-detection model scoring **92% accuracy** on procurement transactions.
